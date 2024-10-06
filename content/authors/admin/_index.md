@@ -3,7 +3,7 @@
 title: Lavanya Pobbathi
 
 # Name pronunciation (optional)
-name_pronunciation: 
+# name_pronunciation: Lavanya
 
 # Full name (for SEO)
 first_name: Lavanya
@@ -23,9 +23,9 @@ highlight_name: true
 role: Machine Learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: University of North Texas
-    url: https://openai.com/
+#organizations:
+#  - name: University of North Texas
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:pobbathilavanya4@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/LavanyaPobbathi
   - icon: brands/linkedin
