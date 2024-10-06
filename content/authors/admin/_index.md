@@ -3,7 +3,7 @@
 title: Lavanya Pobbathi
 
 # Name pronunciation (optional)
-name_pronunciation: Lavanya
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Lavanya
